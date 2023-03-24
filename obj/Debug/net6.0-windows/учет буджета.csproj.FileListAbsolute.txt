@@ -1,0 +1,22 @@
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\учет буджета.exe
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\учет буджета.deps.json
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\учет буджета.runtimeconfig.json
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\учет буджета.dll
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\учет буджета.pdb
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.csproj.AssemblyReference.cache
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета_MarkupCompile.cache
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета_MarkupCompile.lref
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.g.resources
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.AssemblyInfoInputs.cache
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.AssemblyInfo.cs
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.csproj.CoreCompileInputs.cache
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.dll
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\refint\учет буджета.dll
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.pdb
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.genruntimeconfig.cache
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\ref\учет буджета.dll
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\Page.g.cs

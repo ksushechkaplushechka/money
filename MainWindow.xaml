@@ -1,0 +1,45 @@
+﻿<Window x:Class="учет_буджета.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:учет_буджета"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="311" Width="529">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DatePicker x:Name="ExampleDtp" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" DisplayDateEnd="2023, 12, 31" DisplayDateStart="2023, 01, 01"/>
+        <TextBlock TextWrapping="Wrap" Text="Название:" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock TextWrapping="Wrap" Text="Тип:" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:Name="Name" TextWrapping="Wrap" Text="" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="2" TextChanged="Name_TextChanged"/>
+        <TextBlock TextWrapping="Wrap" Text="Итого:" Grid.Column="0" Grid.Row="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ComboBox x:Name="Tips" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="6"/>
+        <Button x:Name="Create_tip" Content="Добавить новый тип данных" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Click="Button_Click" />
+        <Button x:Name="Delete" Content="Удалить" Grid.Row="13" Grid.Column="1" Grid.ColumnSpan="2" Click="Delete_Click" />
+        <Button x:Name="Сhange" Content="Сохранить" Grid.Row="14" Grid.Column="1" Grid.ColumnSpan="2" />
+        <Button x:Name="Create" Content="Создать" Grid.Row="15" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <DataGrid x:Name="Lis" Grid.Column="0" Grid.Row="1" Grid.RowSpan="14"/>
+    </Grid>
+</Window>
