@@ -69,7 +69,7 @@ namespace учет_буджета {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/учет буджета;V1.0.0.0;component/page.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/учет буджета;component/page.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Page.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
