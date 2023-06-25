@@ -19,7 +19,7 @@
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <TextBlock TextWrapping="Wrap" Text="Введите тип добавляемой записи" Grid.ColumnSpan="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
-            <TextBox Grid.Row="1" x:Name="inTag"/>
+            <TextBox Grid.Row="1" x:Name="vvod"/>
             <Button x:Name="OkButton" Grid.Column="1" Grid.Row="3" Content="Добавить новый тип" FontSize="16" Click="OkButton_Click"/>
         </Grid>
     

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q/K9DYDVxN+Uw7tf9cgA3CS5CbTyGU5VAh30fUV265DtdI7cpnJYvX3g9nJkFlEYtKmjtyPwIeDpGYuUG4kVFw==",
+  "dgSpecHash": "TV/CVDXay0pIz51uop/jaSSfUAQ0In1GPCemlhjBtvl+LMRUvDQpt7AMv3XwtRBVORdWhXuY4fszAvPNAxtt0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\porfi\\source\\repos\\учет буджета\\учет буджета.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\porfi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

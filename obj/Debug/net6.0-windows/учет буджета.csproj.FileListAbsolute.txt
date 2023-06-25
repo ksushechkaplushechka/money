@@ -20,3 +20,6 @@ C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\у�
 C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.genruntimeconfig.cache
 C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\ref\учет буджета.dll
 C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\Page.g.cs
+C:\Users\porfi\source\repos\учет буджета\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\Page.baml
+C:\Users\porfi\source\repos\учет буджета\obj\Debug\net6.0-windows\учет буджета.csproj.CopyComplete

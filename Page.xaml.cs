@@ -18,11 +18,18 @@ namespace учет_буджета
     /// <summary>
     /// Логика взаимодействия для Page.xaml
     /// </summary>
-    public partial class Page : Page
+    public partial class Page : Window
     {
+        public string type { get; set; }
         public Page()
         {
             InitializeComponent();
+        }
+
+        private void OkButton_Click(object sender, RoutedEventArgs e)
+        {
+            type = vvod.Text;
+            this.Close();
         }
     }
 }
